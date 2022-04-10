@@ -1,2 +1,2 @@
-# Travelhunt.github.io
+# Mytravel.github.io
 
